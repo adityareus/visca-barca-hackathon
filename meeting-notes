@@ -1,0 +1,32 @@
+9/28: Meeting notes
+
+Where do we find Merchant Kale?
+Ideal Answer: At the Church of Elleh, you'll find the  Merchant Kale
+
+
+Tasks to explore:
+1] Scrape one or two pages from the wiki and pass the text to an LLM to help answer some questions on that context
+2] UI options: Discord bot, or a webpage, like chatbot
+
+
+
+Links checked today:
+https://inference-docs.cerebras.ai/quickstart
+
+Ollama reference project
+https://github.com/GaryKu0/ollama-web-search
+
+Elden Ring wiki
+https://eldenring.wiki.fextralife.com/Guides+&+Walkthroughs
+
+Elden Ring database - Opensource
+https://www.notion.so/valeriolp/Open-Source-Elden-Ring-Lore-Database-a53a45443082486e87aa9ffd65e7c224
+
+Elden Ring API
+https://github.com/deliton/eldenring-api?tab=readme-ov-file
+
+Hackathon schedule:
+https://www.wemakedevs.org/hackathons/futurestack25/schedule
+
+Docker Cerebras demo
+https://github.com/shelajev/docker-cerebras-demo
