@@ -1,4 +1,4 @@
-# LLamma Daredevil
+# LLama Daredevil
 
 A vision assistor for visually impaired people powered by Cerebras and Meta llama-3.3-70b-vision model.
 
