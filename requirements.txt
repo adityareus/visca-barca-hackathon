@@ -5,5 +5,15 @@ pyttsx3>=2.90
 Pillow>=10.0.0
 python-dotenv>=1.0.0
 
+# Llama Vision Dependencies
+torch>=2.0.0
+torchvision>=0.15.0
+transformers>=4.45.0
+accelerate>=0.20.0
+bitsandbytes>=0.41.0
+
+# Hugging Face for model downloads
+huggingface-hub>=0.19.0
+
 # Optional but recommended
 numpy>=1.24.0

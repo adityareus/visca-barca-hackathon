@@ -22,7 +22,7 @@ class LLamaDaredevil():
 
         os.environ["CEREBRAS_API_KEY"] = self.api_key
         self.vision_analyzer = VisionAnalyzer()
-        self.analysis_interval = 3 #secs
+        self.analysis_interval = 10 #secs
         self.last_analysis_time = 0
         self.last_analysis = ""
 
