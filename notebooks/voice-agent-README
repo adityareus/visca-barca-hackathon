@@ -1,0 +1,4 @@
+This project is a simple AI based agent which scans Elden Ring wiki page and helps the users to ask questions in English and get the answers based on the context of the wiki page
+
+The project leverages Cartesia for TTS and STT 
+The LLM used is OpenAI gpt-4
